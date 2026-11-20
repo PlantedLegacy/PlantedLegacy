@@ -1,4 +1,8 @@
+<p align="Center"><img width="900" alt="Untitled13_20261120115323" src="https://github.com/user-attachments/assets/4a8b6172-784e-4f3d-b93d-5e72505e6478" />
 
+<p align="Center"><a href="https://visitorbadge.io//status?path=https%3A%2F%2Fgithub.com%2FPlantedLegacy%2FPlantedLegacy%2Fedit%2Fmain%2FREADME.md"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FPlantedLegacy%2FPlantedLegacy%2Fedit%2Fmain%2FREADME.md&label=Viewers.&labelColor=%23000000&countColor=%23121e50&style=plastic&labelStyle=upper" /></a>
+
+<p align="Center"><img width="600" alt="Untitled15_20261120144610" src="https://github.com/user-attachments/assets/1de19f3d-f6c1-4a70-a037-8a391779a5b1" />
 
 <!--INFO-->
 <div align="center">
