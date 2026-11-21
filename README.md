@@ -8,7 +8,8 @@
 <p align="Center"><img width="600" alt="Untitled15_20261120144610" src="https://github.com/user-attachments/assets/2b28f5dd-88e7-4484-b26c-ff5d37ed2abd" />
 
 
-  
+
+
 <!--INFO-->
 <div align="center">
 <details>
