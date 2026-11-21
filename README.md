@@ -3,6 +3,8 @@
 
 <p align="Center"><a href="https://visitorbadge.io//status?path=https%3A%2F%2Fgithub.com%2FPlantedLegacy%2FPlantedLegacy%2Fedit%2Fmain%2FREADME.md"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FPlantedLegacy%2FPlantedLegacy%2Fedit%2Fmain%2FREADME.md&label=Viewers.&labelColor=%23000000&countColor=%23121e50&style=plastic&labelStyle=upper" /></a>
 
+<p align="Center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&size=29&pause=1000&color=00071A&center=true&width=435&lines=Yes%2C+I+do+miss+you...++++%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88" alt="Typing SVG" /></a>
+
 <p align="Center"><img width="600" alt="Untitled15_20261120144610" src="https://github.com/user-attachments/assets/2b28f5dd-88e7-4484-b26c-ff5d37ed2abd" />
 
 
