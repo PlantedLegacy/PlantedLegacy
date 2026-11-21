@@ -95,7 +95,7 @@
 </p>
 
 
-[*ata*](https://dreamlyunstable.atabook.org/) ... [*prns*](https://en.pronouns.page/@PlantedLegacy))
+[*ata*](https://dreamlyunstable.atabook.org/) ... [*prns*](https://en.pronouns.page/@PlantedLegacy)
 
 <p align="Center">
 <img width="600" alt="Untitled16_20261121134334" src="https://github.com/user-attachments/assets/4ddd2f25-ab46-4acf-9e1a-1d3ace5d1004" />
