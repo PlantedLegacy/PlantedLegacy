@@ -49,7 +49,7 @@
 </p>
 <div align= "center">
     <p align="center">$${\color{#23121}\textbf{𝑴𝒚, 𝑽𝒆𝒓𝒚 𝒂𝒅𝒐𝒓𝒆𝒅 𝒇𝒓𝒊𝒆𝒏𝒅𝒔}}$$
-    <p align="center">$${\color{#23121}\textbf{@𝒕𝒘𝒐𝒕𝒕𝒊𝒎𝒆𝒚 ,[*Planticnurii*](https://github.com/PlanticNurii)  , @𝒈𝒂𝒕𝒊𝒕𝒂-𝒉𝒆𝒓𝒆 , 𝒂𝒏𝒅 𝒎𝒂𝒏𝒚 𝒎𝒐𝒓𝒆 𝒕𝒉𝒂𝒕 𝒅𝒐𝒆𝒔𝒏𝒕 𝒉𝒂𝒗𝒆 𝒈𝒊𝒕.}}$$
+    <p align="center">$${\color{#23121}\textbf{@𝒕𝒘𝒐𝒕𝒕𝒊𝒎𝒆𝒚 ,@PlanticNurii , @𝒈𝒂𝒕𝒊𝒕𝒂-𝒉𝒆𝒓𝒆 ,@T4ngled0rgans ,@Appleepi3 𝒂𝒏𝒅 𝒎𝒂𝒏𝒚 𝒎𝒐𝒓𝒆 𝒕𝒉𝒂𝒕 𝒅𝒐𝒆𝒔𝒏𝒕 𝒉𝒂𝒗𝒆 𝒈𝒊𝒕.}}$$
     <p align="center">$${\color{#23121}\textbf{ 𝑭𝒆𝒆𝒍, 𝒇𝒓𝒆𝒆 𝒕𝒐 𝒍𝒆𝒕 𝒎𝒆 𝒏𝒐𝒘 𝒊𝒇 𝒚𝒐𝒖 𝒘𝒂𝒏𝒕 𝒕𝒐 𝒃𝒆 𝒎𝒚 𝒇𝒓𝒊𝒆𝒏𝒅}}$$
      </details>
 
