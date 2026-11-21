@@ -8,6 +8,7 @@
 <p align="Center"><img width="600" alt="Untitled15_20261120144610" src="https://github.com/user-attachments/assets/2b28f5dd-88e7-4484-b26c-ff5d37ed2abd" />
 
 
+<p align="center"><img width="600"alt="Untitled18_20261121145548" src="https://github.com/user-attachments/assets/43ff8390-eaaa-41a7-96c2-de3dd2bf4d16" />
 
 
 <!--INFO-->
@@ -99,6 +100,9 @@
 
 
 [*ata*](https://dreamlyunstable.atabook.org/) ... [*prns*](https://en.pronouns.page/@PlantedLegacy)
+
+<p align="Center"><img width="600"  alt="Untitled18_20261121145646" src="https://github.com/user-attachments/assets/a1fb8b21-4c11-4287-bc68-edcc142a78e9" />
+
 
 <p align="Center">
 <img width="600" alt="Untitled16_20261121134334" src="https://github.com/user-attachments/assets/4ddd2f25-ab46-4acf-9e1a-1d3ace5d1004" />
